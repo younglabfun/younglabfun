@@ -5,7 +5,7 @@
 
 #### 实践项目
 
-![https://bodhidict.com/images/favicon.ico](https://bodhidict.com/images/favicon.ico)菩提辞典，一个智能的佛教典籍搜索工具，一个不智能的佛教文化遗产收集网站。 [https://bodhidict.com](https://bodhidict.com)
+![https://github.com/jyounglabs/jyounglabs/blob/main/favicon.png?raw=true](https://github.com/jyounglabs/jyounglabs/blob/main/favicon.png?raw=true)菩提辞典，一个智能的佛教典籍搜索工具，一个不智能的佛教文化遗产收集网站。 [https://bodhidict.com](https://bodhidict.com)
 
 ![](https://bodhidict.com/pubimg/2022-05-04/bg-about.jpg)
 
