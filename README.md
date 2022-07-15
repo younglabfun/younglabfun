@@ -14,3 +14,5 @@
 ![JYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyounglabs&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyounglabs)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github.com/jyounglabs/jyounglabs/blob/main/bodhidict-about.jpg?raw=true)
