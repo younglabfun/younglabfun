@@ -4,11 +4,9 @@
 - 日常生活观察员，每天都在观天、喝茶、赏花、漫步、读书、做饭……
 
 #### 实践项目
-<div style="background-color:#eeeeee;">
-![https://github.com/jyounglabs/jyounglabs/blob/main/favicon.png?raw=true](https://github.com/jyounglabs/jyounglabs/blob/main/favicon.png?raw=true)菩提辞典，一个智能的佛教典籍搜索工具，一个不智能的佛教文化遗产收集网站。 [https://bodhidict.com](https://bodhidict.com)
-</div>
-![](https://github.com/jyounglabs/jyounglabs/blob/main/bodhidict-design.jpg?raw=true)
 
+![](https://github.com/jyounglabs/jyounglabs/blob/main/bodhidict-design.jpg?raw=true)
+![https://github.com/jyounglabs/jyounglabs/blob/main/favicon.png?raw=true](https://github.com/jyounglabs/jyounglabs/blob/main/favicon.png?raw=true)菩提辞典，一个智能的佛教典籍搜索工具，一个不智能的佛教文化遗产收集网站。 [https://bodhidict.com](https://bodhidict.com)
 
 
 ![JYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyounglabs&show_icons=true)
