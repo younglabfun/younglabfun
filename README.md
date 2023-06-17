@@ -6,7 +6,7 @@
 #### 实践项目
 
 ![](https://github.com/jyounglabs/jyounglabs/blob/main/bodhidict-design.jpg?raw=true)
-![https://github.com/jyounglabs/jyounglabs/blob/main/favicon.png?raw=true](https://github.com/jyounglabs/jyounglabs/blob/main/favicon.png?raw=true)菩提辞典，一个智能的佛教典籍搜索工具，一个不智能的佛教文化遗产收集网站。 [https://bodhidict.com](https://bodhidict.com)
+**菩提辞典** 一个智能的佛教典籍搜索工具，一个不智能的佛教文化遗产收集网站。 [https://bodhidict.com](https://bodhidict.com)
 
 
 ![JYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyounglabs&show_icons=true)
