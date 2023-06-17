@@ -8,8 +8,4 @@
 - **菩提辞典** 一个智能的佛教典籍搜索工具，一个不智能的佛教文化遗产收集网站。 [https://bodhidict.com](https://bodhidict.com)
 
 
-![JYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyounglabs&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyounglabs)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://github.com/jyounglabs/jyounglabs/blob/main/bodhidict-about.jpg?raw=true)
